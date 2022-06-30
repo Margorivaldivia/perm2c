@@ -1,1 +1,1 @@
-# perm2c
+Este programa tiene como función ser un simulador del juego piedra papel o tijeras, al ingresar aparecerán las tres opciones para elegir (piedra papel o tijeras), como ejemplo si tu seleccionas la opción papel y el computador selecciona la opción tijeras el computador ganara y sumara puntos en su score el cual aparece en la parte de abajo junto con la elección que eligió así sucesivamente, hay opción de que tu ganes o gane el computador o empaten todo es aleatorio
