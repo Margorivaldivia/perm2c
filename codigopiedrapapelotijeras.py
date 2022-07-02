@@ -6,7 +6,7 @@ ventana.geometry("500x500")
 ventana.title("piedra papel o tijeras")
 computer_value = {
     "0": "piedra",
-    "1": "Papel",
+    "1": "papel",
     "2": "tijeras" }
 def reset_game():
     b1["state"] = "active"
